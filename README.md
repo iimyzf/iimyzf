@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Agnaou</h1>
-<h3 align="center">A 1337 student who learns how to code 😇</h3>
+<h3 align="center">A <a href="https://twitter.com/1337FIL" target="blank">1337</a> student who learns how to code 😇</h3>
 
 <p align="left"> <a href="https://twitter.com/iimyzf" target="blank"><img src="https://img.shields.io/twitter/follow/iimyzf?logo=twitter&style=for-the-badge" alt="iimyzf" /></a> </p>
 
