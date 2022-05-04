@@ -21,9 +21,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp; <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <h3 align="center">My GitHub Stats:</h3>
-<p href="https://github.com/iimyzf?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iimyzf&show_icons=true&theme=radical"/> &nbsp; &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=radical">
+<p align="center" href="https://github.com/iimyzf?tab=repositories">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iimyzf&show_icons=true&theme=radical"/> &nbsp; &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=radical">
 </p>
 
 <!-- <a href="https://github.com/iimyzf?tab=repositories">
