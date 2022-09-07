@@ -6,6 +6,10 @@
 
 - 🌱 I’m currently learning **C** and **JavaScript**
 
+- ⚡️ Stats of my progress in the 1337 school:
+
+[![yagnaou's 42 stats](https://badge.mediaplus.ma/binary/yagnaou)](https://github.com/oakoudad/badge42)
+
 
 <h3 align="center">Connect with me:</h3>
 
