@@ -2,7 +2,7 @@
 <h3 align="center">A <a href="https://twitter.com/1337FIL" target="blank">1337</a> student who learns how to code 😇</h3>
 
 
-- 🔭 I’m currently working on **NetPractice**, and you can check it's subject using [this link](https://cdn.intra.42.fr/pdf/pdf/58599/en.subject.pdf)
+- 🔭 I’m currently working on **Cub3D**, and you can check it's subject using [this link](https://cdn.intra.42.fr/pdf/pdf/52135/en.subject.pdf)
 
 - 🌱 I’m currently learning **C** and **JavaScript**
 
