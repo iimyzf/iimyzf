@@ -2,9 +2,11 @@
 <h3 align="center">A <a href="https://twitter.com/1337FIL" target="blank">1337</a> student who learns how to code 😇</h3>
 
 
-- 🔭 I’m currently working on **Cub3D**, and you can check it's subject using [this link](https://cdn.intra.42.fr/pdf/pdf/52135/en.subject.pdf)
+<!--
+- 🔭 I’m currently working on **CPP**, a whole lot of modules to get familiar with the OOP concept.
+-->
 
-- 🌱 I’m currently learning **C** and **JavaScript**
+- 🌱 I’m currently learning **C**, **C++**
 
 - ⚡️ Stats of my progress in the 1337 school:
 
