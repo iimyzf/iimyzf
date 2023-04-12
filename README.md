@@ -10,7 +10,7 @@
 
 - ⚡️ Stats of my progress in the 1337 school:
 
-[![yagnaou's 42 stats](https://badge.mediaplus.ma/binary/yagnaou)](https://github.com/oakoudad/badge42)
+[![yagnaou's 42 stats](https://badge.mediaplus.ma/binary/yagnaou)](https://profile.intra.42.fr/users/yagnaou)
 
 
 <h3 align="center">Connect with me:</h3>
