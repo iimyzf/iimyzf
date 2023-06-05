@@ -35,14 +35,14 @@ Feel Free to reach out to me via <i><strong>(my Socials)</strong></i> 😇
 <!-- [![](https://visitcount.itsvg.in/api?id=iimyzf&icon=5&color=0)](https://visitcount.itsvg.in) -->
 ### ⚡️ 42 Intra Stats:
 <p align="center" href="https://profile.intra.42.fr/users/yagnaou">
-  <img width="45%" src="https://badge.mediaplus.ma/binary/yagnaou"/>
+  <img width="50%" src="https://badge.mediaplus.ma/binary/yagnaou"/>
 </p>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="15%" src="https://visitcount.itsvg.in/api?id=iimyzf&icon=5&color=0"/>
-</p>
+</p> -->
 
 <!--
 - 🔭 I’m currently working on **CPP**, a whole lot of modules to get familiar with the OOP concept.
