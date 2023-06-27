@@ -1,6 +1,3 @@
-<!-- <h1 align="center">Hi 👋, I'm Youssef Agnaou</h1>
-<h3 align="center">A <a href="https://twitter.com/1337FIL" target="blank">1337</a> student who learns how to code 😇</h3> -->
-
 <div align="center" fit><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dex919k-65059397-8304-443b-a63b-1efffd329c4b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV4OTE5ay02NTA1OTM5Ny04MzA0LTQ0M2ItYTYzYi0xZWZmZmQzMjljNGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bz40hW1TYNbqHbpY198IY_SKH__kx2P6bY16YDVx97o"/></div>
 
 ### 💫 About Me:
@@ -24,70 +21,8 @@ Feel Free to reach out to me via <i><strong>(my Socials)</strong></i> 😇
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iimyzf&show_icons=true&theme=react"/> &nbsp; &nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=react">
 </p>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=iimyzf&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=react&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iimyzf&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-
-
-<!-- [![](https://visitcount.itsvg.in/api?id=iimyzf&icon=5&color=0)](https://visitcount.itsvg.in) -->
 ### ⚡️ 42 Intra Stats:
 <p align="center" href="https://profile.intra.42.fr/users/yagnaou">
   <img width="50%" src="https://badge.mediaplus.ma/binary/yagnaou"/>
 </p>
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- <p align="center">
-  <img width="15%" src="https://visitcount.itsvg.in/api?id=iimyzf&icon=5&color=0"/>
-</p> -->
-
-<!--
-- 🔭 I’m currently working on **CPP**, a whole lot of modules to get familiar with the OOP concept.
--->
-
-<!-- - 🌱 I’m currently learning **C**, **C++**
-
-- ⚡️ Stats of my progress in the 1337 school: -->
-
-<!-- [![yagnaou's 42 stats](https://badge.mediaplus.ma/binary/yagnaou)](https://profile.intra.42.fr/users/yagnaou) -->
-
-
-<!-- <h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://twitter.com/iimyzf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iimyzf" height="30" width="40" /></a> &nbsp;
-<a href="https://linkedin.com/in/youssaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssaf" height="30" width="40" /></a> &nbsp;
-<a href="https://instagram.com/imyzf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imyzf" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp; <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center" href="https://github.com/iimyzf?tab=repositories">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iimyzf&show_icons=true&theme=radical"/> &nbsp; &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=radical">
-</p> -->
-
-<!-- <a href="https://github.com/iimyzf?tab=repositories">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=radical">
-</a> -->
-
-
-<!-- <h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iimyzf&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=radical" />
-</p> -->
-
-<!-- ![Imyzf's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iimyzf&theme=redical) -->
-
-<!---
-iimyzf/iimyzf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
