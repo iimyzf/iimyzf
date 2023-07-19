@@ -3,10 +3,10 @@
 ### 💫 About Me:
 A Creative Developer, experienced in Front-end Developement. <br/>
 
-My name is Youssef, and my friends calls me <strong>Apollo</strong>, I'm based in Morocco, and I'm a student at <a href="https://twitter.com/1337FIL" target="blank">1337 Coding School</a> <br />
+My name is Youssef, and my friends call me <strong>Apollo</strong>, I'm based in Morocco, and I'm a student at <a href="https://twitter.com/1337FIL" target="blank">1337 Coding School</a> <br />
 I Love everything related to UI/UX and bringing ideas to life using a variety of technologies <i><strong>(see my Tech Stack)</strong></i>
 
-I'm self-motivated, passionate, and hardworking coder. <br />I'm here to build positive relationships, and find creative solutions to complex problems. <br/>
+I'm a self-motivated, passionate, and hardworking coder. <br />I'm here to build positive relationships and find creative solutions to complex problems. <br/>
 Feel Free to reach out to me via <i><strong>(my Socials)</strong></i> 😇
 
 
