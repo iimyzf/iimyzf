@@ -23,7 +23,7 @@ Feel Free to reach out to me via <i><strong>(my Socials)</strong></i> 😇
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iimyzf&theme=react">
 </p>
 
-### ⚡️ 42 Intra Stats:
+<!--- ### ⚡️ 42 Intra Stats:
 <p align="center" href="https://profile.intra.42.fr/users/yagnaou">
   <img width="50%" src="https://badge.mediaplus.ma/binary/yagnaou"/>
-</p>
+</p> --->
